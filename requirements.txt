@@ -1,0 +1,10 @@
+python-dotenv
+asyncpg
+sqlalchemy
+uvicorn
+fastapi
+passlib
+pyjwt
+python-multipart
+pydantic
+pydantic-settings
